@@ -3,13 +3,13 @@
 <div style="display: inline_block"><br/>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-Um programa feito com React JS, React Routes e Firebase para criar a simulação real de login, criação de contas e dados de acordo com a conta logada!.</br>
-Os dados da aplicação ficarão salvos no Firebase, react routes servirá para criar rotas/páginas na nossa aplicação React.
+- Um programa feito com React JS, React Routes e Firebase para criar a simulação real de login, criação de contas e dados de acordo com a conta logada!.</br>
+- Os dados da aplicação ficarão salvos no Firebase, react routes servirá para criar rotas/páginas na nossa aplicação React.
 
 Deploy: Ainda em processo.
 
 ## Aviso:
-Aplicação ainda em fase de construção, desenvolvida com, proporção compativel tanto com dispositivos moveis quanto com telas horizontais como desktops, tvs e outros.
+Aplicação ainda em fase de construção, desenvolvida com proporção compativel tanto com dispositivos mobile quanto com telas horizontais como desktops, tvs e outros.
 
 ## Instalação
 Para instalar o programa, siga estas etapas:
