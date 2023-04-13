@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-App-firebase/static/css/main.d66c185f.css",
+    "main.js": "/Login-App-firebase/static/js/main.0848f97f.js",
+    "index.html": "/Login-App-firebase/index.html",
+    "main.d66c185f.css.map": "/Login-App-firebase/static/css/main.d66c185f.css.map",
+    "main.0848f97f.js.map": "/Login-App-firebase/static/js/main.0848f97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66c185f.css",
+    "static/js/main.0848f97f.js"
+  ]
+}
