@@ -8,8 +8,12 @@
 
 Deploy: Ainda em processo.
 
-## Aviso:
-Aplicação ainda em fase de construção, desenvolvida com proporção compativel tanto com dispositivos mobile quanto com telas horizontais como desktops, tvs e outros.
+## Atualização:
+Novas funcionaliades:<br/>
+ 1 - Atualização no componente Admin.<br/>
+ 2 - Possibilidade de adicionar novas tarefas.<br/>
+ 3 - Funcionalidade de editar e concluir tarefas.<br/>
+ 4 - Contas salvas no banco de dados do firebase.<br/>
 
 ## Instalação
 Para instalar o programa, siga estas etapas:
