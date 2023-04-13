@@ -1,10 +1,10 @@
-### Prime-flix-65
+# Prime-flix-65
 <img src="./src/assets/Readme.png"/></br>
 <div style="display: inline_block"><br/>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 - Um programa feito com React JS, React Routes e Firebase para criar a simulação real de login, criação de contas e dados de acordo com a conta logada!.</br>
-- Os dados da aplicação ficarão salvos no Firebase, react routes servirá para criar rotas/páginas na nossa aplicação React.
+- Os dados da aplicação ficarão salvos no Firebase, react routes servirá para criar rotas/páginas na nossa aplicação React.</br></br>
 
 Deploy: https://wondrous-kleicha-ac1c5f.netlify.app
 
