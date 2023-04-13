@@ -16,7 +16,7 @@ Novas funcionaliades:<br/>
  4 - Contas salvas no banco de dados do firebase.<br/>
 
 ## Instalação
-Para instalar o programa, siga estas etapas:</br></br>
+Para instalar o programa, siga estas etapas:</br>
 
 1- Clone o repositório para sua máquina local.</br>
 2- Instale as dependências com npm install.</br>
